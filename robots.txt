@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://krakenssylka2026.github.io/kraken-ssylka/sitemap.xml
